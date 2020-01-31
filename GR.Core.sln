@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29519.87
 MinimumVisualStudioVersion = 15.0.26124.0
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GR.Core", "src\GR.Core.Extension\GR.Core\GR.Core.csproj", "{3146971E-5B43-488B-8D73-1982532445D4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GR.Core", "GR.Core.Extension\GR.Core\GR.Core.csproj", "{3146971E-5B43-488B-8D73-1982532445D4}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GR.Core.Benchmark", "src\GR.Core.Extension\GR.Core.Benchmark\GR.Core.Benchmark.csproj", "{89C3422B-8497-4C3A-B798-9A3F62ADD6E5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GR.Core.Benchmark", "GR.Core.Extension\GR.Core.Benchmark\GR.Core.Benchmark.csproj", "{89C3422B-8497-4C3A-B798-9A3F62ADD6E5}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GR.Core.Razor", "src\GR.Core.Extension\GR.Core.Razor\GR.Core.Razor.csproj", "{8724CE3F-427B-480B-9473-38339B173216}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GR.Core.Razor", "GR.Core.Extension\GR.Core.Razor\GR.Core.Razor.csproj", "{8724CE3F-427B-480B-9473-38339B173216}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
